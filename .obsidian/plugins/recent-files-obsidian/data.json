@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "IP address",
+      "path": "network/communication protocol/OSI/layer 3/IP/IP address.md"
+    },
+    {
+      "basename": "IP",
+      "path": "network/communication protocol/OSI/layer 3/IP/IP.md"
+    },
+    {
+      "basename": "Internet Layer",
+      "path": "network/reference models/layers/Internet Layer.md"
+    },
+    {
+      "basename": "Network Layer",
+      "path": "network/reference models/layers/Network Layer.md"
+    },
+    {
+      "basename": "Internet Protocols (IP) - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Internet Protocols (IP) - Study Guide.md"
+    },
+    {
+      "basename": "Protocols - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Neworking/Protocols - Study Guide.md"
+    },
+    {
+      "basename": "encapsulation",
+      "path": "network/reference models/encapsulation.md"
+    },
+    {
+      "basename": "Data Link Layer",
+      "path": "network/reference models/layers/Data Link Layer.md"
+    },
+    {
+      "basename": "Physical Layer",
+      "path": "network/reference models/layers/Physical Layer.md"
+    },
+    {
+      "basename": "Presentation Layer",
+      "path": "network/reference models/layers/Presentation Layer.md"
+    },
+    {
+      "basename": "Session Layer",
+      "path": "network/reference models/layers/Session Layer.md"
+    },
+    {
+      "basename": "Transport Layer",
+      "path": "network/reference models/layers/Transport Layer.md"
+    },
+    {
+      "basename": "TCP IP Model",
+      "path": "network/reference models/TCP IP Model/TCP IP Model.md"
+    },
+    {
+      "basename": "TCP IP encapsulation",
+      "path": "network/reference models/assets/images/TCP IP encapsulation.png"
+    },
+    {
+      "basename": "OSI Model",
+      "path": "network/reference models/OSI Model/OSI Model.md"
+    },
+    {
+      "basename": "bit",
+      "path": "network/reference models/OSI Model/PDU/bit.md"
+    },
+    {
+      "basename": "TCP",
+      "path": "network/communication protocol/OSI/layer 4/TCP.md"
+    },
+    {
+      "basename": "byte",
+      "path": "network/reference models/OSI Model/PDU/other data units/byte.md"
+    },
+    {
+      "basename": "ICMP",
+      "path": "network/communication protocol/OSI/layer 3/ICMP.md"
+    },
+    {
+      "basename": "header",
+      "path": "network/communication protocol/structure of a protocol/header.md"
+    },
+    {
+      "basename": "UDP",
+      "path": "network/communication protocol/OSI/layer 4/UDP.md"
+    },
+    {
+      "basename": "payload",
+      "path": "network/communication protocol/structure of a protocol/payload.md"
+    },
+    {
+      "basename": "structure of a protocol",
+      "path": "network/communication protocol/structure of a protocol/structure of a protocol.md"
+    },
+    {
+      "basename": "header and payload",
+      "path": "network/communication protocol/structure of a protocol/assets/images/header and payload.png"
+    },
+    {
+      "basename": "communication protocol",
+      "path": "network/communication protocol/communication protocol.md"
+    },
+    {
+      "basename": "PDU",
+      "path": "network/reference models/OSI Model/PDU/PDU.md"
+    },
+    {
+      "basename": "Wi-Fi",
+      "path": "network/communication protocol/OSI/multi layer/layer 1 and 2/Wi-Fi.md"
+    },
+    {
+      "basename": "data",
+      "path": "network/reference models/OSI Model/PDU/data.md"
+    },
+    {
+      "basename": "Application Layer",
+      "path": "network/reference models/layers/Application Layer.md"
+    },
+    {
+      "basename": "packet",
+      "path": "network/reference models/OSI Model/PDU/packet.md"
+    },
+    {
+      "basename": "segment",
+      "path": "network/reference models/OSI Model/PDU/segment.md"
+    },
+    {
+      "basename": "datagram",
+      "path": "network/reference models/OSI Model/PDU/datagram.md"
+    },
+    {
+      "basename": "frame",
+      "path": "network/reference models/OSI Model/PDU/frame.md"
+    },
+    {
+      "basename": "network",
+      "path": "network/network.md"
+    },
+    {
+      "basename": "MAC address",
+      "path": "network/MAC address.md"
+    },
+    {
+      "basename": "modules",
+      "path": "tools/hacking/webapp/Burp Suite/modules/modules.md"
+    },
+    {
+      "basename": "Windows priv esc",
+      "path": "hacking/attacks and vulnerabilities/windows/Windows priv esc.md"
+    },
+    {
+      "basename": "Linux priv esc",
+      "path": "hacking/attacks and vulnerabilities/linux/Linux priv esc.md"
+    },
+    {
+      "basename": "Active Directory priv esc",
+      "path": "hacking/attacks and vulnerabilities/active directory/Active Directory priv esc.md"
+    },
+    {
+      "basename": "clear-text protocol",
+      "path": "cryptography/secure communication/secure communication protocols/clear-text protocol.md"
+    },
+    {
+      "basename": "Decoder",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Decoder/Decoder.md"
+    },
+    {
+      "basename": "decoding",
+      "path": "general/encoding and decoding/decoding.md"
+    },
+    {
+      "basename": "encoding",
+      "path": "general/encoding and decoding/encoding.md"
+    },
+    {
+      "basename": "Comparer",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Comparer/Comparer.md"
+    },
+    {
+      "basename": "Sequencer",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Sequencer/Sequencer.md"
+    },
+    {
+      "basename": "Logger",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Logger/Logger.md"
+    },
+    {
+      "basename": "Extender",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Extender/Extender.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Proxy/Proxy.md"
+    },
+    {
+      "basename": "Inspector",
+      "path": "tools/hacking/webapp/Burp Suite/modules/Inspector.md"
+    },
+    {
+      "basename": "Wireshark Introduction - Study Guide",
+      "path": "courses and certs/INE/PTS and eJPT/Penetration Testing Prerequisites/Introduction/Wireshark Introduction - Study Guide.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

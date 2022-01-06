@@ -1,0 +1,8 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "glassBg": false,
+  "shouldAutoCheck": true,
+  "pickyMode": true,
+  "staticLanguage": "en-GB",
+  "ruleOtherDisabledRules": "PASSIVE_VOICE"
+}

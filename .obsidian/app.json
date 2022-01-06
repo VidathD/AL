@@ -1,0 +1,18 @@
+{
+  "spellcheckDictionary": [
+    "PSH",
+    "priv",
+    "esc",
+    "Priv",
+    "shellcode",
+    "PDUs"
+  ],
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets/images",
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true
+}
