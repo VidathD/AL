@@ -1,6 +1,7 @@
 # Data Validation
 
 > Vidath Dissanayake | Sri Lanka
+> [Activities of Data Processing](Activities%20of%20Data%20Processing.md)
 
 Data validation is a technique to check whether the entering data is sensible and responsible for the expected processing and generate information.
 

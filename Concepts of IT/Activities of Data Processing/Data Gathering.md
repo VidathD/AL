@@ -1,6 +1,7 @@
 # Data Gathering
 
 > Vidath Dissanayake | Sri Lanka
+> [Activities of Data Processing](Activities%20of%20Data%20Processing.md)
 
 Collecting necessary data and entering them into the computer is related to this step.
 
@@ -29,15 +30,15 @@ An OCR device or an Optical Character Reader allows us to identify written or pr
 
 ### MICR (Magnetic Ink Character Recognition)
 
-A MICR device or Magnetic Ink Character Reader, supports to input data written in special magnetic ink under cheque.
+A MICR device, or Magnetic Ink Character Reader, supports to input data written in special magnetic ink under cheques.
 
 ### Magnetic Strip Readers
 
-Magnetic Strip Reader is used to read data stored in magnetic strip attached on credit cards and ATM cards
+Magnetic Strip Reader is used to read data stored in magnetic strip attached on credit cards and ATM cards.
 
 ### Barcode Readers
 
-Uses visible light to scan barcodes that contain data and input it to the computer
+Uses visible light to scan barcodes that contain data and input it to the computer.
 
 ### Sensors
 
