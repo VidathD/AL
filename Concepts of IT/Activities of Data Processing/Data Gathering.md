@@ -1,7 +1,7 @@
 # Data Gathering
 
 > Vidath Dissanayake | Sri Lanka
-> [Activities of Data Processing](Activities%20of%20Data%20Processing.md)
+> Links: [Activities of Data Processing](Activities%20of%20Data%20Processing.md)
 
 Collecting necessary data and entering them into the computer is related to this step.
 

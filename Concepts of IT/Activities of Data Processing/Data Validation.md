@@ -1,7 +1,7 @@
 # Data Validation
 
 > Vidath Dissanayake | Sri Lanka
-> [Activities of Data Processing](Activities%20of%20Data%20Processing.md)
+> Links: [Activities of Data Processing](Activities%20of%20Data%20Processing.md)
 
 When we input data, mistakes may occur. To overcome these mistakes, programmers should include some controls called validation methods.
 

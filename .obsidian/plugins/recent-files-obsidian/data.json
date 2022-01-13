@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Storage Methods",
+      "path": "Concepts of IT/Activities of Data Processing/Storage Methods.md"
+    },
+    {
+      "basename": "Output Methods",
+      "path": "Concepts of IT/Activities of Data Processing/Output Methods.md"
+    },
+    {
+      "basename": "Data Processing",
+      "path": "Concepts of IT/Activities of Data Processing/Data Processing.md"
+    },
+    {
       "basename": "Modes of Data Input",
       "path": "Concepts of IT/Activities of Data Processing/Modes of Data Input.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "decoding",
       "path": "general/encoding and decoding/decoding.md"
-    },
-    {
-      "basename": "encoding",
-      "path": "general/encoding and decoding/encoding.md"
-    },
-    {
-      "basename": "Comparer",
-      "path": "tools/hacking/webapp/Burp Suite/modules/Comparer/Comparer.md"
-    },
-    {
-      "basename": "Sequencer",
-      "path": "tools/hacking/webapp/Burp Suite/modules/Sequencer/Sequencer.md"
     }
   ],
   "omittedPaths": [],
