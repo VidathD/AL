@@ -195,10 +195,6 @@
     {
       "basename": "Decoder",
       "path": "tools/hacking/webapp/Burp Suite/modules/Decoder/Decoder.md"
-    },
-    {
-      "basename": "decoding",
-      "path": "general/encoding and decoding/decoding.md"
     }
   ],
   "omittedPaths": [],
