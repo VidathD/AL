@@ -10,5 +10,7 @@
   "spellcheckDictionary": [
     "Analog",
     "analog"
-  ]
+  ],
+  "tabSize": 4,
+  "useTab": false
 }

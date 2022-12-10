@@ -5,8 +5,48 @@
       "path": "ICT/6. Computer Networking/Signals.md"
     },
     {
-      "basename": "Untitled Diagram",
-      "path": "ICT/6. Computer Networking/Untitled Diagram.svg"
+      "basename": "Transmission Media",
+      "path": "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
+    },
+    {
+      "basename": "Computer Networking",
+      "path": "ICT/6. Computer Networking/Computer Networking.md"
+    },
+    {
+      "basename": "AL",
+      "path": "AL.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "ICT",
+      "path": "ICT/ICT.md"
+    },
+    {
+      "basename": "Full-Duplex",
+      "path": "ICT/6. Computer Networking/assets/images/Full-Duplex.svg"
+    },
+    {
+      "basename": "Half-Duplex",
+      "path": "ICT/6. Computer Networking/assets/images/Half-Duplex.svg"
+    },
+    {
+      "basename": "Simplex",
+      "path": "ICT/6. Computer Networking/assets/images/Simplex.svg"
+    },
+    {
+      "basename": "Through modem",
+      "path": "ICT/6. Computer Networking/assets/images/Through modem.svg"
+    },
+    {
+      "basename": "Scheduling",
+      "path": "ICT/5. Operating Systems/Scheduling.md"
+    },
+    {
+      "basename": "Memory Management",
+      "path": "ICT/5. Operating Systems/Memory Management.md"
     },
     {
       "basename": "Frequency",
@@ -15,14 +55,6 @@
     {
       "basename": "Digital Signal",
       "path": "ICT/6. Computer Networking/assets/images/Digital Signal.svg"
-    },
-    {
-      "basename": "Memory Management",
-      "path": "ICT/5. Operating Systems/Memory Management.md"
-    },
-    {
-      "basename": "Computer Networking",
-      "path": "ICT/6. Computer Networking/Computer Networking.md"
     },
     {
       "basename": "Operating Systems",
@@ -35,10 +67,6 @@
     {
       "basename": "Paging",
       "path": "ICT/5. Operating Systems/assets/images/Paging.svg"
-    },
-    {
-      "basename": "Scheduling",
-      "path": "ICT/5. Operating Systems/Scheduling.md"
     }
   ],
   "omittedPaths": [],

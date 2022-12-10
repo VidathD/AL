@@ -52,8 +52,51 @@
 
 ## Converting Baseband to Broadband
 
-![[ICT/6. Computer Networking/Untitled Diagram.svg]]
+![Through modem.svg](assets/images/Through%20modem.svg)
 
 # Propagation Speed in a Media
 
 Time spent to reach a certain direction through a media used to transmit data is called propagation speed in media. This speed changes according to the transmission media.
+
+# Data Transmission Modes
+
+There is a categorization according to the methodology of transmission of data from sender to receiver.
+
+1. Simplex Mode – Transmitting data from sender to receiver, towards only a single direction.
+    - Telecasting and broadcasting of television and radio channels.
+    - ![Simplex.svg](assets/images/Simplex.svg)
+2. Half-Duplex Mode – This as the ability to transmit data in both directions and if the data is transmitted towards a single direction at a single occasion, it is called half-duplex mode.
+    - Talk via walkie-talkie.
+    - ![Half-Duplex](assets/images/Half-Duplex.svg)
+3. Full-Duplex Mode – In full-duplex mode, data transmission occur in both directions at the same time.
+    - Telephone
+    - ![Full-Duplex](assets/images/Full-Duplex.svg)
+
+# Data Transmission
+
+![assets/images/Data transmission methods.png](assets/images/Data%20transmission%20methods.png)
+
+## Serial Data Transmission
+
+- Data is transmitted in bits, flowing one bit after another through the transmission media is called serial data transmission.
+- One wire of the transmission media is sufficient for this.
+- Normally used in long distance data transmission.
+
+## Parallel Data Transmission
+
+- Multiple data bits transmitting over multiple channels at the same time is parallel data transmission.
+- Therefore, data transmit much faster than the serial data transmission.
+
+## Data Transmission Units
+
+There are several units to measure data transmission. 
+
+1. Bits per second – bps
+2. Kilo bits per second – Kbps
+3. Mega bits per second – Mbps
+
+## Data Transmission Media
+
+In data transmission, the media used to carry data from source (sender) to receiver is called data transmission media.
+
+![Transmission Media.svg](assets/images/Transmission%20Media.svg)
