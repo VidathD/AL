@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "./assets/images",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Analog",
+    "analog"
+  ]
+}
