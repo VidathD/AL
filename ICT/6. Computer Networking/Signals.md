@@ -74,7 +74,7 @@ There is a categorization according to the methodology of transmission of data f
 
 # Data Transmission
 
-![assets/images/Data transmission methods.png](assets/images/Data%20transmission%20methods.png)
+![assets/images/Data transmission methods.png](assets/images/Data%20transmission%20methods.jpg)
 
 ## Serial Data Transmission
 
