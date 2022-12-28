@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62b12ba356315d3c",
+        "id": "870deb34ae95956f",
         "type": "tabs",
         "children": [
           {
-            "id": "3328c802ad57424f",
+            "id": "de9cc349dbd1c788",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT/6. Computer Networking/Signals.md",
+                "file": "ICT/ICT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICT/6. Computer Networking/Signals.md"
+                "file": "ICT/ICT.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICT/6. Computer Networking/Signals.md",
+                "file": "ICT/ICT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICT/6. Computer Networking/Signals.md",
+                "file": "ICT/ICT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,19 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
-  "active": "3328c802ad57424f",
+  "active": "de9cc349dbd1c788",
   "lastOpenFiles": [
-    "ICT/6. Computer Networking/assets/images/Data transmission methods.png",
     "ICT/6. Computer Networking/Signals.md",
-    "ICT/6. Computer Networking/assets/images/Transmission Media.svg",
-    "ICT/6. Computer Networking/Computer Networking.md",
     "AL.md",
-    "README.md",
     "ICT/ICT.md",
-    "ICT/6. Computer Networking/assets/images/Full-Duplex.svg",
-    "ICT/6. Computer Networking/assets/images/Half-Duplex.svg",
-    "ICT/6. Computer Networking/assets/images/Simplex.svg"
+    "ICT/assets/images/Untitled.md",
+    "ICT/5. Operating Systems/Processes.md",
+    "ICT/5. Operating Systems/Operating Systems.md",
+    "ICT/5. Operating Systems/Memory Management.md",
+    "ICT/5. Operating Systems/7 State Process Diagram.md",
+    "ICT/6. Computer Networking/Computer Networking.md",
+    "ICT/1. Concepts of IT/Activities of Data Processing/Storage Methods.md"
   ]
 }

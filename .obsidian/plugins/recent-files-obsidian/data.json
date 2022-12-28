@@ -1,28 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "ICT",
+      "path": "ICT/ICT.md"
+    },
+    {
       "basename": "Signals",
       "path": "ICT/6. Computer Networking/Signals.md"
-    },
-    {
-      "basename": "Transmission Media",
-      "path": "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
-    },
-    {
-      "basename": "Computer Networking",
-      "path": "ICT/6. Computer Networking/Computer Networking.md"
     },
     {
       "basename": "AL",
       "path": "AL.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Processes",
+      "path": "ICT/5. Operating Systems/Processes.md"
     },
     {
-      "basename": "ICT",
-      "path": "ICT/ICT.md"
+      "basename": "Operating Systems",
+      "path": "ICT/5. Operating Systems/Operating Systems.md"
+    },
+    {
+      "basename": "Memory Management",
+      "path": "ICT/5. Operating Systems/Memory Management.md"
+    },
+    {
+      "basename": "7 State Process Diagram",
+      "path": "ICT/5. Operating Systems/7 State Process Diagram.md"
+    },
+    {
+      "basename": "Computer Networking",
+      "path": "ICT/6. Computer Networking/Computer Networking.md"
+    },
+    {
+      "basename": "Storage Methods",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Storage Methods.md"
+    },
+    {
+      "basename": "Output Methods",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Output Methods.md"
+    },
+    {
+      "basename": "Data Validation",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md"
+    },
+    {
+      "basename": "Modes of Data Input",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Modes of Data Input.md"
+    },
+    {
+      "basename": "Data Processing",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Processing.md"
+    },
+    {
+      "basename": "Data Gathering",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Gathering.md"
+    },
+    {
+      "basename": "Activities of Data Processing",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Activities of Data Processing.md"
+    },
+    {
+      "basename": "Transmission Media",
+      "path": "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Full-Duplex",
@@ -45,24 +89,12 @@
       "path": "ICT/5. Operating Systems/Scheduling.md"
     },
     {
-      "basename": "Memory Management",
-      "path": "ICT/5. Operating Systems/Memory Management.md"
-    },
-    {
       "basename": "Frequency",
       "path": "ICT/6. Computer Networking/assets/images/Frequency.png"
     },
     {
       "basename": "Digital Signal",
       "path": "ICT/6. Computer Networking/assets/images/Digital Signal.svg"
-    },
-    {
-      "basename": "Operating Systems",
-      "path": "ICT/5. Operating Systems/Operating Systems.md"
-    },
-    {
-      "basename": "7 State Process Diagram",
-      "path": "ICT/5. Operating Systems/7 State Process Diagram.md"
     },
     {
       "basename": "Paging",

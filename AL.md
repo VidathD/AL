@@ -1,3 +1,3 @@
 > Vidath Dissanayake | Sri Lanka
 
-Notes about GCE A/L ICT.
+Notes about GCE A/L subjects.
