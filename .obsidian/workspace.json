@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT/ICT.md",
+                "file": "ICT/6. Computer Networking/Signals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICT/ICT.md"
+                "file": "ICT/6. Computer Networking/Signals.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICT/ICT.md",
+                "file": "ICT/6. Computer Networking/Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICT/ICT.md",
+                "file": "ICT/6. Computer Networking/Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,15 +156,15 @@
   },
   "active": "de9cc349dbd1c788",
   "lastOpenFiles": [
+    "ICT/6. Computer Networking/Computer Networking.md",
+    "Physics/Transverse Waves.md",
     "ICT/6. Computer Networking/Signals.md",
-    "AL.md",
     "ICT/ICT.md",
+    "AL.md",
     "ICT/assets/images/Untitled.md",
     "ICT/5. Operating Systems/Processes.md",
     "ICT/5. Operating Systems/Operating Systems.md",
     "ICT/5. Operating Systems/Memory Management.md",
-    "ICT/5. Operating Systems/7 State Process Diagram.md",
-    "ICT/6. Computer Networking/Computer Networking.md",
-    "ICT/1. Concepts of IT/Activities of Data Processing/Storage Methods.md"
+    "ICT/5. Operating Systems/7 State Process Diagram.md"
   ]
 }

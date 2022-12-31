@@ -9,7 +9,10 @@
   "spellcheck": true,
   "spellcheckDictionary": [
     "Analog",
-    "analog"
+    "analog",
+    "Thinnet",
+    "Thicknet",
+    "LDs"
   ],
   "tabSize": 4,
   "useTab": false
