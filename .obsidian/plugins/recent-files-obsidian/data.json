@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Signals",
-      "path": "ICT/6. Computer Networking/Signals.md"
+      "basename": "ICT",
+      "path": "ICT/ICT.md"
+    },
+    {
+      "basename": "Digital Data Encoding",
+      "path": "ICT/6. Computer Networking/Digital Data Encoding.md"
+    },
+    {
+      "basename": "Modulation",
+      "path": "ICT/6. Computer Networking/assets/images/Modulation.svg"
     },
     {
       "basename": "README",
@@ -13,6 +21,26 @@
       "path": "AL.md"
     },
     {
+      "basename": "Topologies",
+      "path": "ICT/6. Computer Networking/Topologies.md"
+    },
+    {
+      "basename": "Signals",
+      "path": "ICT/6. Computer Networking/Signals.md"
+    },
+    {
+      "basename": "Transmission Media",
+      "path": "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
+    },
+    {
+      "basename": "Computer Networking",
+      "path": "ICT/6. Computer Networking/Computer Networking.md"
+    },
+    {
+      "basename": "Concepts of IT",
+      "path": "ICT/1. Concepts of IT/Concepts of IT.md"
+    },
+    {
       "basename": "Coaxial",
       "path": "ICT/6. Computer Networking/assets/images/Coaxial.png"
     },
@@ -21,16 +49,8 @@
       "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md"
     },
     {
-      "basename": "Computer Networking",
-      "path": "ICT/6. Computer Networking/Computer Networking.md"
-    },
-    {
       "basename": "Transverse Waves",
       "path": "Physics/Transverse Waves.md"
-    },
-    {
-      "basename": "ICT",
-      "path": "ICT/ICT.md"
     },
     {
       "basename": "Processes",
@@ -71,10 +91,6 @@
     {
       "basename": "Activities of Data Processing",
       "path": "ICT/1. Concepts of IT/Activities of Data Processing/Activities of Data Processing.md"
-    },
-    {
-      "basename": "Transmission Media",
-      "path": "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
     },
     {
       "basename": "Full-Duplex",
