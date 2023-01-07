@@ -255,7 +255,7 @@ In analog signals, amplifiers can be used to prevent attenuation. Amplifiers are
 
 Amplifiers prevent decreasing of electrical energy of a signal and it restores the signal to the original situation.
 
-![Attenuation](assets/images/Pasted%20image%2020230107193735.png)
+![Attenuation](assets/images/Attenuation.png)
 
 #### Distortion
 
