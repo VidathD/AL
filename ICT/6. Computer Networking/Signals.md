@@ -110,7 +110,7 @@ In data transmission, the media used to carry data from source (sender) to recei
  
  Twisted pair is consisted of a copper wire covered with a plastic cover. These wires are used in pairs, wrapped around each other. This is done to minimize electrical effects that may happen from one wire to another and to prevent mixing of the noise of the environment. 
 
-Features:
+<u>Features</u>:
 - Low cost.
 - Low bandwidth.
 - When the length of the cable increases, the data transmitted becomes attenuated.
@@ -146,14 +146,14 @@ BNC connectors are used when coaxial cables are used to connect a network device
 
 ![](assets/images/BNC%20Connector.png)
 
-Advantages:
+<u>Advantages</u>:
 - Excellent cable for noise immunity.
 - Can transmit signals longer distances at higher speeds. 
 - Can be used for both analog and digital signals.
 - These cables are inexpensive than fibre optic cables.
 - Easy to install and maintain in a network.
 
-Disadvantages:
+<u>Disadvantages</u>:
 - Expensive than twisted pair.
 - Not compatible with twisted pair.
 
@@ -162,13 +162,13 @@ Disadvantages:
 
 Thin glass or plastic threads used to transmit data using light waves is called optical fibre. LEDs or laser diodes (LDs) emit light waves at the source, which is read by a detector at the other end. Optical fibre cables has a bundle of such threads or fibres bundled together in a protecting cover. Each fibre is made up of these three layers. 
 
-Advantages:
+<u>Advantages</u>:
 - High bandwidth.
 - Immune to EM interference. 
 - Suitable for industrial and noisy areas.
 - Signals carrying data can travel long distances without weakening. 
 
-Disadvantage:
+<u>Disadvantage</u>:
 - These cables are very expensive.
 - Light waves are unidirectional, so 2 frequencies are required for full duplex transmission.
 
@@ -195,9 +195,68 @@ Places using microwaves:
 - Mobile phone communication.
 - Send signals to and from satellites.
 
-Features:
+<u>Features</u>:
 - Reflected by metal surfaces.
 - They heat materials if they can make atoms or molecules in the material vibrate.
 - They pass though glass and plastics.
 - They pass though atmosphere.
 - Transmission is affected by wave effects such as reflection, refraction, diffraction, and interference. 
+
+#### Satellite
+
+This is a mechanical equipment placed at 35 000 km above the Earth. Arthur C. Clarke presented the idea about satellites to the world in 1945. This technology is used to obtain weather reports, photographs of Earth, data communication, etc...
+
+The satellite which is used for communication is called geo-stationary which means it is fixed at the same place in space. This satellite revolves with a similar speed with that of the Earth. Accordingly, if a satellite is stationed in the space above our country, it will be there at all the times.
+
+Satellites are used to exchange data between 2 remote areas of the Earth.
+
+
+#### Infrared
+
+Even light waves with low frequency can be used in transmission of data. Mostly infrared rays are used in transmission of data in wireless keyboards and mouse and TV remotes. 
+
+<u>Advantages</u>:
+- Has the ability to be connected to the network from anywhere.
+- Mobile phones, laptops have the ability to be connected to the network from anywhere and exchange information.
+
+<u>Disadvantages</u>:
+- Availability of security issues.
+- Disturbances. 
+- Illegal accessing ability is higher than wired networks. 
+
+
+### Properties of Signal Transmission Media
+
+#### Latency/Delay
+
+Time spent for transmission of data between two locations is called latency. 
+- E.g: Time spent to carry a signal from device A to device B via transmission media.
+Measured in milliseconds (ms).
+
+#### Bandwidth
+
+The number of bits that can be transmitted via a transmission media during a period of time is called the bandwidth. It is also called the capacity of the relevant media of data transmission.
+
+Measured using bits/kilobits/megabits/gigabits per second (bps/Kbps/Mbps/Gbps).
+
+#### Noise
+
+Transmission of signal relevant to external sounds with signal relevant to the data being transmitted is called noise. The noise that disturbs the signal transferred can be mentioned as follows. 
+1. Thermal noise
+2. Induced noise
+3. Cross-talk noise
+4. Impulse noise
+
+#### Attenuation
+
+Reduction of the strength of the signal when it is transmitted though a transmission media for a long distance is called attenuation.
+
+In analog signals, amplifiers can be used to prevent attenuation. Amplifiers are established in between locations to prevent that. 
+
+Amplifiers prevent decreasing of electrical energy of a signal and it restores the signal to the original situation.
+
+![Attenuation](assets/images/Pasted%20image%2020230107193735.png)
+
+#### Distortion
+
+Damaging the data by changing the original shape of the carrier wave (Wave that carries data) when a message flows through a transmission media to the receiver is called distortion.

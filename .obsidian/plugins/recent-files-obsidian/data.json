@@ -5,6 +5,22 @@
       "path": "ICT/6. Computer Networking/Signals.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "AL",
+      "path": "AL.md"
+    },
+    {
+      "basename": "Coaxial",
+      "path": "ICT/6. Computer Networking/assets/images/Coaxial.png"
+    },
+    {
+      "basename": "Data Validation",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md"
+    },
+    {
       "basename": "Computer Networking",
       "path": "ICT/6. Computer Networking/Computer Networking.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "ICT",
       "path": "ICT/ICT.md"
-    },
-    {
-      "basename": "AL",
-      "path": "AL.md"
     },
     {
       "basename": "Processes",
@@ -45,10 +57,6 @@
       "path": "ICT/1. Concepts of IT/Activities of Data Processing/Output Methods.md"
     },
     {
-      "basename": "Data Validation",
-      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md"
-    },
-    {
       "basename": "Modes of Data Input",
       "path": "ICT/1. Concepts of IT/Activities of Data Processing/Modes of Data Input.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Transmission Media",
       "path": "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Full-Duplex",
