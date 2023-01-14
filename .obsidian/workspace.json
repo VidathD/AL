@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT/ICT.md",
+                "file": "ICT/6. Computer Networking/Digital Data Encoding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICT/ICT.md"
+                "file": "ICT/6. Computer Networking/Digital Data Encoding.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "e5f1b5fc5831ac55",
   "lastOpenFiles": [
+    "ICT/6. Computer Networking/assets/images/Multiplexing.svg",
     "ICT/6. Computer Networking/Digital Data Encoding.md",
-    "ICT/6. Computer Networking/assets/images/Modulation.svg",
-    "README.md",
-    "AL.md",
-    "ICT/ICT.md",
     "ICT/6. Computer Networking/Topologies.md",
-    "ICT/6. Computer Networking/Signals.md",
-    "ICT/6. Computer Networking/assets/images/Transmission Media.svg",
     "ICT/6. Computer Networking/Computer Networking.md",
-    "ICT/1. Concepts of IT/Concepts of IT.md"
+    "ICT/6. Computer Networking/Signals.md",
+    "README.md",
+    "ICT/ICT.md",
+    "ICT/6. Computer Networking/assets/images/Modulation.svg",
+    "AL.md",
+    "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
   ]
 }

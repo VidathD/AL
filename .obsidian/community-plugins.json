@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "recent-files-obsidian",
-  "obsidian-languagetool-plugin",
   "obsidian-orthography",
   "obsidian-linter",
   "table-editor-obsidian",
@@ -9,5 +8,6 @@
   "obsidian-math-plus",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-underline",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "obsidian-languagetool-plugin"
 ]

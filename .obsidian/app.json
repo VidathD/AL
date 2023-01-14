@@ -12,7 +12,10 @@
     "analog",
     "Thinnet",
     "Thicknet",
-    "LDs"
+    "LDs",
+    "Mux",
+    "DeMux",
+    "DMux"
   ],
   "tabSize": 4,
   "useTab": false
