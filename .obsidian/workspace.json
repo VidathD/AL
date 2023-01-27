@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "870deb34ae95956f",
+        "id": "c357baf850ab157b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f1b5fc5831ac55",
+            "id": "70e117c2a37007aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT/6. Computer Networking/Digital Data Encoding.md",
+                "file": "ICT/Programming/Python/Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8e86f2661cba1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICT/ICT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICT/6. Computer Networking/Digital Data Encoding.md"
+                "file": "ICT/Programming/Python/Python.md"
               }
             }
           },
@@ -124,17 +137,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e5f1b5fc5831ac55",
+  "active": "70e117c2a37007aa",
   "lastOpenFiles": [
-    "ICT/6. Computer Networking/assets/images/Multiplexing.svg",
-    "ICT/6. Computer Networking/Digital Data Encoding.md",
-    "ICT/6. Computer Networking/Topologies.md",
-    "ICT/6. Computer Networking/Computer Networking.md",
-    "ICT/6. Computer Networking/Signals.md",
-    "README.md",
     "ICT/ICT.md",
-    "ICT/6. Computer Networking/assets/images/Modulation.svg",
-    "AL.md",
-    "ICT/6. Computer Networking/assets/images/Transmission Media.svg"
+    "ICT/Programming/Python/Python.md",
+    "ICT/Programming/Programming.md",
+    "ICT/6. Computer Networking/Untitled.md",
+    "ICT/6. Computer Networking/Digital Data Encoding.md",
+    "ICT/6. Computer Networking/Computer Networking.md",
+    "ICT/Programming/Untitled.md",
+    "ICT/5. Operating Systems/7 State Process Diagram.md",
+    "ICT/6. Computer Networking/assets/images/Multiplexing.svg",
+    "ICT/6. Computer Networking/Topologies.md"
   ]
 }

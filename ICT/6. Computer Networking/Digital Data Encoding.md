@@ -96,3 +96,4 @@ Logical division of the bandwidth of the transmission media into channels and tr
 
 According to TDM, all signals to be transmitted are not transmitted simultaneously, and they transmit one by one. Therefore, each signal will be transmitted within the transmission medium for a very short time period only.
 
+![Time Division Multiplexing](assets/images/TDM.png)

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Python",
+      "path": "ICT/Programming/Python/Python.md"
+    },
+    {
+      "basename": "ICT",
+      "path": "ICT/ICT.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "ICT/Programming/Programming.md"
+    },
+    {
       "basename": "Digital Data Encoding",
       "path": "ICT/6. Computer Networking/Digital Data Encoding.md"
+    },
+    {
+      "basename": "Computer Networking",
+      "path": "ICT/6. Computer Networking/Computer Networking.md"
+    },
+    {
+      "basename": "7 State Process Diagram",
+      "path": "ICT/5. Operating Systems/7 State Process Diagram.md"
     },
     {
       "basename": "Multiplexing",
@@ -13,20 +33,12 @@
       "path": "ICT/6. Computer Networking/Topologies.md"
     },
     {
-      "basename": "Computer Networking",
-      "path": "ICT/6. Computer Networking/Computer Networking.md"
-    },
-    {
       "basename": "Signals",
       "path": "ICT/6. Computer Networking/Signals.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "ICT",
-      "path": "ICT/ICT.md"
     },
     {
       "basename": "Modulation",
@@ -67,10 +79,6 @@
     {
       "basename": "Memory Management",
       "path": "ICT/5. Operating Systems/Memory Management.md"
-    },
-    {
-      "basename": "7 State Process Diagram",
-      "path": "ICT/5. Operating Systems/7 State Process Diagram.md"
     },
     {
       "basename": "Storage Methods",
