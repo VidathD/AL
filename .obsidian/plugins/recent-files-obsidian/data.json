@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Topologies",
+      "path": "ICT/6. Computer Networking/Topologies.md"
+    },
+    {
+      "basename": "Digital Data Transmission",
+      "path": "ICT/6. Computer Networking/Digital Data Transmission.md"
+    },
+    {
+      "basename": "Signals",
+      "path": "ICT/6. Computer Networking/Signals.md"
+    },
+    {
+      "basename": "Data Validation",
+      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md"
+    },
+    {
+      "basename": "AL",
+      "path": "AL.md"
+    },
+    {
       "basename": "Python",
       "path": "ICT/Programming/Python/Python.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Programming",
       "path": "ICT/Programming/Programming.md"
-    },
-    {
-      "basename": "Digital Data Encoding",
-      "path": "ICT/6. Computer Networking/Digital Data Encoding.md"
     },
     {
       "basename": "Computer Networking",
@@ -29,24 +45,12 @@
       "path": "ICT/6. Computer Networking/assets/images/Multiplexing.svg"
     },
     {
-      "basename": "Topologies",
-      "path": "ICT/6. Computer Networking/Topologies.md"
-    },
-    {
-      "basename": "Signals",
-      "path": "ICT/6. Computer Networking/Signals.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "Modulation",
       "path": "ICT/6. Computer Networking/assets/images/Modulation.svg"
-    },
-    {
-      "basename": "AL",
-      "path": "AL.md"
     },
     {
       "basename": "Transmission Media",
@@ -59,10 +63,6 @@
     {
       "basename": "Coaxial",
       "path": "ICT/6. Computer Networking/assets/images/Coaxial.png"
-    },
-    {
-      "basename": "Data Validation",
-      "path": "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md"
     },
     {
       "basename": "Transverse Waves",

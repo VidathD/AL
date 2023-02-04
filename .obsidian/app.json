@@ -15,7 +15,9 @@
     "LDs",
     "Mux",
     "DeMux",
-    "DMux"
+    "DMux",
+    "NRZ-L",
+    "NRZ-I"
   ],
   "tabSize": 4,
   "useTab": false

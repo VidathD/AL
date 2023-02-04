@@ -97,3 +97,69 @@ Logical division of the bandwidth of the transmission media into channels and tr
 According to TDM, all signals to be transmitted are not transmitted simultaneously, and they transmit one by one. Therefore, each signal will be transmitted within the transmission medium for a very short time period only.
 
 ![Time Division Multiplexing](assets/images/TDM.png)
+
+
+# Data Encoding Techniques
+
+Digital as well as analog data should be converted into signal waves to be transmitted to a different location from the device they exist. They cannot be transmitted though a media if not converted as a signal. This method of conversion is called data encoding.
+
+
+## NRZ-L (Non-Return Zero Level)
+
+Using various voltage levels of digital data bits relevant to zero and one to delineate binary numbers happens in the data encoding method of Non-Return Zero Level.
+
+![Non-Return Zero Level](assets/images/NRZ-L.png)
+
+
+## NRZ-I (Non-Return Zero Inverted)
+
+In this method of encoding, a physical level transmission is done at locations relevant to one. 
+- That means a change of the signal at locations relevant to binary '1'. 
+- There will be no change at locations relevant to '0'.
+
+![Non-Return Zero Inverted](assets/images/NRZ-I.png)
+
+
+## Manchester Encoding
+
+- In Manchester encoding, voltage changes from low to high or high to low in the middle of the signal.
+- Division of the time required for transmission into similar parts and carrying out the encoding process is called Manchester encoding.
+- In this process, among the similar time segment divided at locations relevant to bit 1, high and low voltages will be prepared for the 1st and 2nd time segments.
+
+![Manchester Encoding](assets/images/Manchester.png)
+
+
+# Error Controlling
+
+During data transmission, sometimes data bits may get flipped due to various reasons. In such situations, the data bit received is in error.
+
+Error detection is the process of identifying that the data bit has been altered during transmission.
+
+Error correction and recovery mechanisms are used to correct the data bits received in error and to recover the actual data.
+
+
+## Parity Bit and Parity Checking
+
+This is a simple mechanism of identifying simple errors. In this method of identifying errors, one additional bit is added when encoding transmitted data.
+
+This bit is mentioned as parity bit. Normally when data is encoded, according to the ASCII method, it is encoded to be having 7 bits. In addition to those 7 bits, the parity bit is added. The bit used as the parity can be 0 or 1. It is decided according to the agreement of the data receiver and source before starting the process of data transmission.
+
+### Even Parity
+
+If the agreement is for even parity method, the number of bits relevant to data transmission with value 1 is maintained as an even number.
+
+| Letter | Value | ASCII   | Data Being Transmitted | Parity Bit | Parity Bit With Data | No of 1's |
+| ------ | ----- | ------- | ---------------------- | ---------- | -------------------- | --------- |
+| C      | 67    | 1000011 | 1000011                | 1          | 11000011             | 4         |
+| S      | 83    | 1010011 | 1010011                | 0          | 01010011             | 4         |
+
+
+### Odd Parity
+
+No of bits received when the ASCII value 65 of the letter A is in the table below. Encoded into binary value is, 1000001. The number of bits relevant to '1' is two (2) which is on even number. As the transmission is done on odd parity, the binary of the data being transmitted should be maintained as an odd value. Therefore, '1' is added as the parity bit.
+
+| Letter | Value | ASCII   | Data Being Transmitted | Parity Bit | Parity Bit With Data | No of 1's |
+| ------ | ----- | ------- | ---------------------- | ---------- | -------------------- | --------- |
+| A      | 65    | 1000001 | 1000001                | 1          | 11000001             | 3         |
+| C      | 67    | 1000011 | 1000011                | 0          | 01000011             | 3         |
+

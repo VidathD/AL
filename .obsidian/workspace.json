@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70e117c2a37007aa",
+            "id": "644c5b3c2569891b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT/Programming/Python/Python.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8e86f2661cba1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICT/ICT.md",
+                "file": "ICT/6. Computer Networking/Topologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,9 +86,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ICT/Programming/Python/Python.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,17 +122,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "70e117c2a37007aa",
+  "active": "883e0726f6f0f392",
   "lastOpenFiles": [
-    "ICT/ICT.md",
+    "ICT/6. Computer Networking/Topologies.md",
+    "ICT/6. Computer Networking/Digital Data Transmission.md",
+    "ICT/6. Computer Networking/Signals.md",
+    "Floating Point.md",
+    "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md",
+    "AL.md",
     "ICT/Programming/Python/Python.md",
+    "ICT/ICT.md",
     "ICT/Programming/Programming.md",
-    "ICT/6. Computer Networking/Untitled.md",
-    "ICT/6. Computer Networking/Digital Data Encoding.md",
-    "ICT/6. Computer Networking/Computer Networking.md",
-    "ICT/Programming/Untitled.md",
-    "ICT/5. Operating Systems/7 State Process Diagram.md",
-    "ICT/6. Computer Networking/assets/images/Multiplexing.svg",
-    "ICT/6. Computer Networking/Topologies.md"
+    "ICT/6. Computer Networking/Untitled.md"
   ]
 }
