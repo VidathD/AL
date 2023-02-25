@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Structure of The Internet",
+      "path": "ICT/6. Computer Networking/Structure of The Internet.md"
+    },
+    {
+      "basename": "ICT",
+      "path": "ICT/ICT.md"
+    },
+    {
+      "basename": "Transmission Media Methodology",
+      "path": "ICT/6. Computer Networking/Transmission Media Methodology.md"
+    },
+    {
+      "basename": "Identifying Devices",
+      "path": "ICT/6. Computer Networking/Identifying Devices.md"
+    },
+    {
+      "basename": "Types of Networks",
+      "path": "ICT/6. Computer Networking/Types of Networks.md"
+    },
+    {
       "basename": "Topologies",
       "path": "ICT/6. Computer Networking/Topologies.md"
     },
     {
-      "basename": "Digital Data Transmission",
-      "path": "ICT/6. Computer Networking/Digital Data Transmission.md"
-    },
-    {
       "basename": "Signals",
       "path": "ICT/6. Computer Networking/Signals.md"
+    },
+    {
+      "basename": "Computer Networking",
+      "path": "ICT/6. Computer Networking/Computer Networking.md"
+    },
+    {
+      "basename": "Digital Data Transmission",
+      "path": "ICT/6. Computer Networking/Digital Data Transmission.md"
     },
     {
       "basename": "Data Validation",
@@ -25,16 +49,8 @@
       "path": "ICT/Programming/Python/Python.md"
     },
     {
-      "basename": "ICT",
-      "path": "ICT/ICT.md"
-    },
-    {
       "basename": "Programming",
       "path": "ICT/Programming/Programming.md"
-    },
-    {
-      "basename": "Computer Networking",
-      "path": "ICT/6. Computer Networking/Computer Networking.md"
     },
     {
       "basename": "7 State Process Diagram",

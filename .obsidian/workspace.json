@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "644c5b3c2569891b",
+            "id": "dba77a2835f7e400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT/6. Computer Networking/Topologies.md",
+                "file": "ICT/6. Computer Networking/Structure of The Internet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,15 +124,15 @@
   },
   "active": "883e0726f6f0f392",
   "lastOpenFiles": [
-    "ICT/6. Computer Networking/Topologies.md",
-    "ICT/6. Computer Networking/Digital Data Transmission.md",
-    "ICT/6. Computer Networking/Signals.md",
-    "Floating Point.md",
-    "ICT/1. Concepts of IT/Activities of Data Processing/Data Validation.md",
-    "AL.md",
-    "ICT/Programming/Python/Python.md",
+    "ICT/6. Computer Networking/Structure of The Internet.md",
     "ICT/ICT.md",
-    "ICT/Programming/Programming.md",
-    "ICT/6. Computer Networking/Untitled.md"
+    "ICT/6. Computer Networking/Transmission Media Methodology.md",
+    "ICT/6. Computer Networking/Identifying Devices.md",
+    "ICT/6. Computer Networking/Types of Networks.md",
+    "ICT/6. Computer Networking/Untitled Diagram.svg",
+    "ICT/6. Computer Networking/Topologies.md",
+    "ICT/6. Computer Networking/Signals.md",
+    "ICT/6. Computer Networking/Computer Networking.md",
+    "ICT/6. Computer Networking/Digital Data Transmission.md"
   ]
 }

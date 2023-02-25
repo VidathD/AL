@@ -17,7 +17,8 @@
     "DeMux",
     "DMux",
     "NRZ-L",
-    "NRZ-I"
+    "NRZ-I",
+    "IANA"
   ],
   "tabSize": 4,
   "useTab": false
