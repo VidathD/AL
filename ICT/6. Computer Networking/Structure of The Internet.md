@@ -93,3 +93,83 @@ IP addresses used in computer networks are classified into several classes accor
 ### Class E 
 
 - Reserved for future use or research and development purpose.
+
+
+## Subnet Mask
+
+### Class A
+
+Formula: `Net.Host.Host.Host`
+Binary: `11111111.00000000.00000000.00000000`
+Decimal: `255.0.0.0`
+
+### Class B
+
+Formula: `Net.Net.Host.Host`
+Binary: `11111111.11111111.00000000.00000000`
+Decimal: `255.255.0.0`
+
+### Class C
+
+Formula: `Net.Net.Net.Host`
+Binary: `11111111.11111111.11111111.00000000`
+Decimal: `255.255.255.0`
+
+When an IP address is included in a computer, the subnet mask is also entered. Therefore, when an IP address is indicated, the subnet mask is also indicated as follows.
+
+**E.g:**
+> IP: `192.168.1.50`
+> Default subnet mask: `255.255.255.0`
+
+- The subnet mask is important to identify the number of computers that can be entered into the network.
+- The subnet mask has been created with the maximum bit values that can be entered into an address of the network.
+
+## Subnetting
+
+Division of a computer network into small networks is called subnetting.
+
+Subnetting is a technique used to overcome the problem of depletion of network address of the 32 bit addressing scheme. In subnetting, each physical network is assigned a 32-bit address mask, which is used to identify networks among other networks. All machines in the subnet should have the same subnet mask. 
+
+### Classes Inter-Domain Routing (CIDR)
+
+Instead of full class A, B or C networks, organizations can be allocated any number of addresses using this scheme. This scheme can help reduce the growth of the routing tables. 
+
+| Network Class | Subnet Mask by Decimal Numbers | Subnet Mask by Binary Values        | No. of Changeable Bits for Creating Subnets |
+|:-------------:| ------------------------------ | ----------------------------------- |:-------------------------------------------:|
+|       A       | 255.0.0.0                      | 11111111.00000000.00000000.00000000 |                     24                      |
+|       B       | 255.255.0.0                    | 11111111.11111111.00000000.00000000 |                     16                      |
+|       C       | 255.255.255.0                  | 11111111.11111111.11111111.00000000 |                      8                      |
+
+
+## Private IPs
+
+Three sets of address ranges are used for private use.
+
+### Class A
+
+> Range: `10.0.0.0 - 10.255.255.255`
+> CIDR notation: `10.0.0.0/8`
+
+### Class B
+
+> Range: `172.16.0.0 - 172.31.255.255`
+> CIDR notation: `172.16.0.0/12`
+
+### Class C
+
+> Range: `192.168.0.0 - 192.168.255.2551
+> CIDR notation: `192.168.0.0/16`
+
+## Dynamic Host Configuration Protocol (DHCP) Server
+
+DHCP is a protocol used to assign IP addresses to arriving hosts rather than a network administrator manually assigning an IP address to each arriving host, the DHCP will assign IP addresses automatically.
+
+## Finding the Path to the Destination
+
+When data leaves the sources towards the destination, it needs to be routed through a series of networking devices to reach the destination. Routers take care of the job of routing the data from the sources to the destination. <u>Routing is the process of finding an efficient path from a source to a given destination through the network.</u>
+
+Routers are special networking devices that are capable of communicating with similar devices over the network, collaborate among themselves and find paths to arriving data.  Routers maintain a table of reachable destinations through them, and these tables are called routing tables. Routers exchange these routing tables with other routers in the network from time to time to update the route details.
+
+### Packet Switching
+
+When a message is generated at the source, it is broken down into smaller chunks called packets. Each packet is assigned unique information to identify itself, switching information is added in the header of each packet and is transmitted independent of other packets.

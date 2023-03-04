@@ -18,7 +18,9 @@
     "DMux",
     "NRZ-L",
     "NRZ-I",
-    "IANA"
+    "IANA",
+    "Subnetting",
+    "subnetting"
   ],
   "tabSize": 4,
   "useTab": false
